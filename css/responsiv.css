@@ -1,0 +1,217 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+
+
+#banner {
+	padding: 100px 0px;
+}
+
+.banner_part h2 {
+	padding: 0px;
+}
+
+.navbar-nav {
+	text-align: center;
+}
+.navbar-light .navbar-nav .nav-link::after {
+	width: 9%;
+	bottom: 5px;
+}
+.navbar-nav {
+	background: gray;
+	width: 90%;
+	margin: 0 auto;
+}
+.top_menu_btn {
+display: none;
+}
+.navbar-nav .dropdown-menu {
+	position: absolute;
+	left: 354px;
+	top: 13px;
+}
+
+.aboute_right a {
+	width: 100%;
+	text-align: center;
+}
+.call_part_right a {
+width: 100%;
+text-align: center;
+}
+
+.col_fourth {
+	width: 11.5%;
+}
+.portfolio-controllers .filter-btn {
+	padding: 7px 34px;
+}
+.qution_img_right {
+	display: none;
+}
+.question_left {
+	background: #fff;
+	padding: 40px 29px;
+}
+.my_question {
+	margin-bottom: 4px;
+}
+.card-header {
+padding: 0px 0px;
+}
+
+
+
+ }
+
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+
+#banner {
+	padding: 100px 0px;
+}
+
+.banner_part h2 {
+	padding: 0px;
+}
+
+.navbar-nav {
+	text-align: center;
+}
+.navbar-light .navbar-nav .nav-link::after {
+	width: 9%;
+	bottom: 5px;
+}
+.navbar-nav {
+	background: gray;
+	width: 90%;
+	margin: 0 auto;
+}
+.top_menu_btn {
+display: none;
+}
+.navbar-nav .dropdown-menu {
+	position: absolute;
+	left: 354px;
+	top: 13px;
+}
+
+.aboute_right a {
+	width: 100%;
+	text-align: center;
+}
+.call_part_right a {
+width: 100%;
+text-align: center;
+}
+
+.col_fourth {
+	width: 11.5%;
+}
+.portfolio-controllers .filter-btn {
+	padding: 7px 34px;
+}
+.qution_img_right {
+	display: none;
+}
+.question_left {
+	background: #fff;
+	padding: 40px 29px;
+}
+.my_question {
+	margin-bottom: 4px;
+}
+.card-header {
+padding: 0px 0px;
+}
+
+
+
+
+
+ }
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+
+#banner {
+	padding: 100px 0px;
+}
+
+.banner_part h2 {
+	padding: 0px;
+}
+
+.navbar-nav {
+	text-align: center;
+}
+.navbar-light .navbar-nav .nav-link::after {
+	width: 9%;
+	bottom: 5px;
+}
+.navbar-nav {
+	background: gray;
+	width: 90%;
+	margin: 0 auto;
+}
+.top_menu_btn {
+display: none;
+}
+.navbar-nav .dropdown-menu {
+	position: absolute;
+	left: 354px;
+	top: 13px;
+}
+
+.aboute_right a {
+	width: 100%;
+	text-align: center;
+}
+.call_part_right a {
+width: 100%;
+text-align: center;
+}
+
+.col_fourth {
+	width: 16.5%;
+}
+.portfolio-controllers .filter-btn {
+	padding: 7px 21px;
+}
+
+.qution_icon {
+	padding-left: 9px;
+}
+.my_question {
+	margin-bottom: 4px;
+}
+.card-header {
+padding: 0px 0px;
+}
+
+ }
+
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+.navbar-light .navbar-nav .nav-link {
+	margin-right: 5px;
+}
+
+
+
+
+
+
+
+ }
+
+ /*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+
+
+
+
+
+ }
